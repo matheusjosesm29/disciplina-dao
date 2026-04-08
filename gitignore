@@ -1,0 +1,18 @@
+# Compilados Java
+*.class
+out/
+bin/
+
+# Arquivo de configuração sensível (senha do banco)
+db.properties
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# Driver JDBC (baixar separado)
+lib/
